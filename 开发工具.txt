@@ -1,0 +1,16 @@
+一、开发环境：
+JDK：1.8版本
+IDE：Eclipse、idea
+VCS：git
+DB: mysql、redis
+MQ:nsq
+Framework:springboot
+ORM:mybatis
+PUBLISH:docker
+web server:jetty(集成于springboot)
+builder:gradle
+监控系统：CAT
+日志系统：ELK
+项目管理：禅道
+
+1
